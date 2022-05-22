@@ -1,0 +1,30 @@
+{
+  "name": "v13gifbot",
+  "version": "1.0.0",
+  "description": "ArviS#0011 V13 GIF Botu",
+  "main": "app.js",
+  "dependencies": {
+    "@discordjs/rest": "^0.4.1",
+    "axios": "^0.26.1",
+    "discord-api-types": "^0.31.2",
+    "discord.js": "^13.6.0",
+    "mongoose": "^6.3.1",
+    "node": "^17.7.2",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GweepCreative/v13gifbot.git"
+  },
+  "keywords": [],
+  "author": "ArviS#0011",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GweepCreative/v13gifbot/issues"
+  },
+  "homepage": "https://github.com/GweepCreative/v13gifbot#readme"
+}
